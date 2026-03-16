@@ -1184,7 +1184,7 @@ body {
 
   .client-texts {
     flex: 1;
-    gap: 0;
+    gap: 5px;
   }
 
   .client-card .call-btn {
